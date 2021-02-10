@@ -1,4 +1,4 @@
-#Bulk Photo Watermarker
+# Bulk Photo Watermarker
 
 Made a python program to help me with watermarking the photographs that I took in bulk.
 
